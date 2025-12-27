@@ -1562,8 +1562,6 @@
 *://*.reddit.com/r/OpenAI/*
 *://*.reddit.com/r/nightcafe/*
 *://*.reddit.com/r/civitai/*
-*://*.reddit.com/r/ChatGPT/*
-*://*.reddit.com/r/ArtificialInteligence/*
 *://*.reddit.com/r/leonardoai/*
 *://*.reddit.com/r/ProductHunters/*
 *://*.reddit.com/r/SukiAI/*
@@ -1601,9 +1599,7 @@
 *://*.reddit.com/r/AiHentaiArtwork/*
 *://*.reddit.com/r/singularity/*
 *://*.reddit.com/r/Pixai_Official/*
-*://*.reddit.com/r/aipromptprogramming/*
 *://*.reddit.com/r/bard/*
-*://*.reddit.com/r/ChatGPTCoding/*
 *://*.reddit.com/r/ChatGPTPro/*
 *://*.reddit.com/r/generativeAI/*
 *://*.reddit.com/r/generative/*
