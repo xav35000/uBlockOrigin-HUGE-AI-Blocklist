@@ -23,7 +23,7 @@ If you have uBlock Origin installed, click [this link](https://subscribe.adblock
 
 5. Copy and paste this URL into the dialogue box: 
 ```
-https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt
+https://raw.githubusercontent.com/xav35000/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt
 ```
 
 6. Apply changes, and you're set!
